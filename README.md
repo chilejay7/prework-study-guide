@@ -5,10 +5,7 @@
 This Prework Study Guide was created as an exercise to better understand some of the concepts introduced in the coding bootcamp.  While it represents my personal documentation of the most important information encountered throughout the precourse work, it will be useful to all bootcamp students.
 
 The topics documented in the application are as follows:
-CSS
-Git
-HTML
-JavaScript
+CSS, Git, HTML, JavaScript
 
 ## Installation
 
